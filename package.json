@@ -1,0 +1,18 @@
+{
+  "name": "JavaScript Refresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_Basics.js",
+  "scripts": {
+    "basics": "node 01_Basics.js"
+  },
+  "keywords": [],
+  "author": "Luis",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
